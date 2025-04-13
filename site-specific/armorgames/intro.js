@@ -10,7 +10,7 @@ function playArmorGamesIntro(windowHandle, onDone) {
 
     var videoElementA = document.createElement("a");
     videoElementA.style.textDecoration = "none";
-    videoElementA.href = "http://armor.ag/MoreGames";
+    videoElementA.href = "http://loadbit6.github.io";
     videoElementA.target = "_blank";
 
     var directory = "site-specific/armorgames";
